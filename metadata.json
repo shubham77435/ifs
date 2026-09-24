@@ -1,0 +1,6 @@
+{
+  "name": "IFOX SOLUTIONS",
+  "description": "Odoo Community & Enterprise implementation for businesses that want to scale without the chaos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
